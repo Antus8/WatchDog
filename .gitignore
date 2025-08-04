@@ -1,0 +1,7 @@
+*.pyc
+*.npz
+*.pt
+**/*logs*/
+*.png
+*.svg
+**/__pycache__/
