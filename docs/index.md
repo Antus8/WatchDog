@@ -8,7 +8,7 @@ title: WatchDog - Robotic Elderly Assistance
 ## AI-Powered Robotic Dog for Elderly Assistance via Transformer-based Fall Detection and Motion Prediction
 
 <p align="center">
-  <img src="images/concept.png" alt="WatchDog Concept" width="600">
+  <img src="{{ site.baseurl }}/images/concept.png" alt="WatchDog Concept" width="600">
 </p>
 
 ---
