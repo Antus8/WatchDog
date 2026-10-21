@@ -1,10 +1,10 @@
-# WatchDog: Robotic-Dog for Elderly Assistance via Transformer-based Fall Detection and Motion Prediction
+# WATCHDOG: Autonomous Elderly Assistance via Attention-based Fall Detection and Trajectory Prediction
 
 [![Paper](https://img.shields.io/badge/Paper-IEEE%20Xplore-00629B)](https://ieeexplore.ieee.org/document/11696798)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://antus8.github.io/WatchDog/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-green.svg)](LICENSE)
 
-Official code for the paper **[Robotic-Dog for Elderly Assistance via Transformer-based Fall Detection and Motion Prediction](https://ieeexplore.ieee.org/document/11696798)**.
+Official code for the paper **[WATCHDOG: Autonomous Elderly Assistance via Attention-based Fall Detection and Trajectory Prediction](https://ieeexplore.ieee.org/document/11696798)**.
 
 WatchDog is an AI-powered legged robot that watches over elderly people in cluttered home environments. It combines two attention-based models: a **fall-detection transformer** that classifies short sequences of 2D body landmarks, and a **trajectory-prediction transformer** that uses the fall model's pose embeddings to forecast where the person will move next. A ROS package running on the robot extracts the person's skeleton and 3D position from an RGB-D camera.
 
