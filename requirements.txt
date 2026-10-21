@@ -1,0 +1,13 @@
+# Core (install torch matching your CUDA version first: https://pytorch.org/get-started/locally/)
+torch
+tensorboard
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+tqdm
+
+# Landmark extraction / vision
+opencv-python
+mediapipe>=0.10,<0.10.15  # code uses the legacy mp.solutions.holistic API
