@@ -1,4 +1,4 @@
-title: WatchDog
-description: AI-Powered Robotic Dog for Elderly Assistance via Transformer-based Fall Detection and Motion Prediction
+title: WATCHDOG
+description: Autonomous Elderly Assistance via Attention-based Fall Detection and Trajectory Prediction (ICRA 2026)
 theme: jekyll-theme-slate
 baseurl: /WatchDog
